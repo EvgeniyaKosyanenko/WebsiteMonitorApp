@@ -1,0 +1,4 @@
+https://www.example.com,Example Domain
+https://www.google.com,Search the world's information
+http://nonexistentwebsite.com,test
+interval=60
